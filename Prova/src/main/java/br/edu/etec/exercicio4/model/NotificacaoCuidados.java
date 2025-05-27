@@ -2,14 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package br.edu.etec.exercicio3.model;
+package br.edu.etec.exercicio4.model;
 
 /**
  *
  * @author Admin
  */
-public enum tipoAlerta {
-     CLIMA,
-    IRRIGACAO,
-    ANIMAL
+public class NotificacaoCuidados {
+    
 }
